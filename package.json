@@ -1,0 +1,21 @@
+{
+  "name": "commonjs-modules",
+  "version": "1.0.0",
+  "description": "MODULES === repo: node-commonjs-modules ## Istruzioni Segui questi tre step creando i rispettivi files:",
+  "main": "names.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node people.js",
+    "watch": "node --watch people.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucia-Susanna/node-commonjs-modules.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lucia-Susanna/node-commonjs-modules/issues"
+  },
+  "homepage": "https://github.com/Lucia-Susanna/node-commonjs-modules#readme"
+}
