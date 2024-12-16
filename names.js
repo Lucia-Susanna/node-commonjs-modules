@@ -1,10 +1,9 @@
 function fullName(firstName, lastName){
-  nome = {
-    nome: firstName,
-    cognome: lastName
-  }
 
-  return nome
+  return {
+    firstName,
+    lastName
+  }
 }
 
 module.exports = fullName;
